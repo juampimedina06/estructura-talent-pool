@@ -53,7 +53,134 @@
                 "consumo-de-apis"
             ]
         },
-        "detailed": {}
+        "detailed": {
+            "technical":{
+                "javascript":[
+  {
+    "id": 1,
+    "titulo": "Manipulación del DOM",
+    "descripcion": "Sé cómo acceder, modificar y manipular elementos del DOM usando JavaScript puro. También sé cómo agregar, eliminar o cambiar clases, atributos y contenido.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 2,
+    "titulo": "Eventos",
+    "descripcion": "Manejo eventos como click, submit, keyup, etc., y sé cómo trabajar con event listeners para controlar la interacción del usuario.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 3,
+    "titulo": "Funciones",
+    "descripcion": "Uso funciones tradicionales y funciones flecha. Sé cómo pasar parámetros, retornar valores, y aplicar funciones como callbacks.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 4,
+    "titulo": "Manipulación de arrays",
+    "descripcion": "Sé cómo iterar con forEach, map, filter, find y reduce. También sé modificar arrays con métodos como push, pop, splice y slice.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 5,
+    "titulo": "Condicionales y Bucles",
+    "descripcion": "Manejo estructuras como if/else, switch, for, while y do while.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 6,
+    "titulo": "Fetch API y consumo de APIs REST",
+    "descripcion": "Sé cómo hacer peticiones GET y POST utilizando fetch, trabajar con promesas y manejar respuestas en formato JSON.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 7,
+    "titulo": "Async/Await",
+    "descripcion": "Manejo funciones asíncronas con async/await para hacer código más legible al trabajar con promesas.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 8,
+    "titulo": "Manejo de errores",
+    "descripcion": "Sé cómo usar try/catch para capturar errores durante la ejecución del código, especialmente en funciones asíncronas.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 9,
+    "titulo": "Modularización",
+    "descripcion": "Divido mi código en archivos separados y sé cómo importar y exportar funciones o variables con módulos ES6.",
+    "urlRepositorio": ""
+  },
+  {
+    "id": 10,
+    "titulo": "Creación de componentes reutilizables",
+    "descripcion": "Creo funciones o estructuras que puedo reutilizar en distintas partes del proyecto, especialmente útiles en listas de productos.",
+    "urlRepositorio": ""
+  }
+],
+    "react":[
+   {
+    "id": 1,
+    "titulo": "Componentes funcionales",
+    "descripcion": "Sé cómo crear componentes usando funciones y JSX. Los utilizo para dividir la UI en partes reutilizables.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 2,
+    "titulo": "Props y State",
+    "descripcion": "Uso props para pasar datos entre componentes y manejo el estado con useState para actualizar la interfaz en tiempo real.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 3,
+    "titulo": "Hooks",
+    "descripcion": "Utilizo hooks como useState, useEffect y useContext para manejar estado, efectos secundarios y contexto global.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 4,
+    "titulo": "React Router",
+    "descripcion": "Manejo rutas dinámicas y navegación entre vistas con React Router Dom.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 5,
+    "titulo": "Consumo de APIs",
+    "descripcion": "Hago peticiones HTTP con fetch o axios desde componentes, y manejo estados de carga y error.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 6,
+    "titulo": "Estilos en React",
+    "descripcion": "Aplico estilos con CSS modules, Styled Components y también clases utilitarias con Tailwind.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 7,
+    "titulo": "Renderizado condicional",
+    "descripcion": "Muestro u oculto contenido en base a condiciones, usando operadores ternarios y cortocircuito lógico.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 8,
+    "titulo": "Listas y keys",
+    "descripcion": "Renderizo listas dinámicamente con map, asegurándome de usar keys únicas para cada item.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 9,
+    "titulo": "Levantamiento de estado",
+    "descripcion": "Cuando es necesario, subo el estado al componente padre para compartir datos entre componentes hermanos.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  },
+  {
+    "id": 10,
+    "titulo": "Formularios y validaciones básicas",
+    "descripcion": "Manejo inputs controlados y capturo eventos para validar datos antes de enviarlos.",
+    "urlRepositorio": "https://github.com/juampimedina06/react-blogposts"
+  }
+             ]
+            }
+        }
     },
     "certifications": [
         {
@@ -61,7 +188,7 @@
             "issuing_organization": "Formacion ONE de Alura y Oracle",
             "issue_date": "2024-01-01",
             "expiration_date": "2025-12-31",
-            "credential_id": ""
+            "credential_id": "https://app.aluracursos.com/user/juamvegeta/program/20/certificate"
         },
         {
             "name": "Maestria en JavaScript",
