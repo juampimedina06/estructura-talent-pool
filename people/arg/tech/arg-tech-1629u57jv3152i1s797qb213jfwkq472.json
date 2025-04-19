@@ -9,9 +9,9 @@
             "city": "Cordoba Capital",
             "state": ""
         },
-        "linkedin": "",
-        "website": "",
-        "portfolio": "",
+        "linkedin": "https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/",
+        "website": "https://portafolio-juan-pablo-medina.netlify.app/",
+        "portfolio": "https://portafolio-juan-pablo-medina.netlify.app/",
         "summary": "Soy un joven con formacion en desarrollo Front-End con experiencia en HTML, CSS, JavaScript, React y MySQL. Me especializo en crear interfaces funcionales y optimizadas, consumiendo APIs y aplicando buenas prácticas de desarrollo. Me adapto rápido, trabajo bien en equipo y uso metodologías ágiles para entregar soluciones eficientes. Busco seguir creciendo y aportar mis conocimientos en un equipo de desarrollo."
     },
     "work_experience": [],
@@ -86,7 +86,7 @@
         }
     ],
     "projects": [],
-    "languages": [],
+    "languages": ["html","css", "javascript", "react", "angular(en proceso)"],
     "volunteer_experience": [],
     "publications": [],
     "references": []
